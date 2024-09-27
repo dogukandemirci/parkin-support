@@ -1,2 +1,2 @@
-# parkin.github.io
+# parkin
 Parkin Support Page
